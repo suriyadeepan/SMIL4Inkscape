@@ -14,3 +14,14 @@ an inkscape extension for declarative animation using SMIL
 - [SVG-SMIL animation tutorial](https://edutechwiki.unige.ch/en/SVG-SMIL_animation_tutorial)
 - [Interactive SVG-SMIL animation tutorial](https://edutechwiki.unige.ch/en/Interactive_SVG-SMIL_animation_tutorial#Simple_click_and_mouse-over_examples)
 - [Inkscape extensions by non developers, for non developers. A primer.](https://medium.com/@xaviju/inkscape-extensions-by-non-developers-for-non-developers-a-primer-b272dda360fe)
+
+## Usual Interpolation in Inkscappe
+
+Available path interpolation extension in inkscape would help in generating required intermediate frames.
+
+1. create objects
+2. Convert them into path
+3. Combine the paths into single path (use path -> combine)
+4. the current path is the start path
+5. duplicate to create a destination path
+6. select extensions -> generate from path -> interpolate
