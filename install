@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# not much to see here
+#  copies the src files into inkscape's config dir
+cp -r src/* ~/.config/inkscape/extensions/
