@@ -16,3 +16,6 @@
 	- [drawSVG.js - js lib for generating svg](https://github.com/petercollingridge/drawSVG.js)
 - [Bartosz Telenczuk](https://github.com/btel)
 	- [svgutils - Python tools to create and manipulate svg](https://github.com/btel/svg_utils)
+- [Luke Hudson](https://github.com/lingo)
+	- [Onion Skinning](https://github.com/lingo/inkscape_onionskin)
+	- [Inkscape Reanimator](https://github.com/lingo/inkscape_reanimator)

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+ <text x="55" y="90" style="stroke:#000099;fill:#000099;fontsize:24;">
+		Hello. Let’s show a crawling rectangle ! 
+	</text>
+
+ <rect x="50" y="50" width="200" height="100" style="fill:#CCCCFF;stroke:#000099">
+  <animate id="a1" attributeName="x" attributeType="XML" 
+           begin="0s" dur="2s" from="50" to="300" fill="freeze"/>
+  <animate id="a2" attributeName="x" attributeType="XML" 
+           begin="a1.end" dur="2s" from="300" to="50" fill="freeze"/>
+ </rect>
+
+</svg>

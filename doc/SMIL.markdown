@@ -34,4 +34,4 @@
 </svg>
 ```
 
-![](/img/svg/dynamic-rect.svg)
+- [Open in browser](http://tecfa.unige.ch/guides/svg/ex/anim-trans/animate-size.svg)
