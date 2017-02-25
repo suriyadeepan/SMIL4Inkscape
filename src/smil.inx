@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <_name>smil</_name>
+    <id>org.inkscape.smil</id>
+	<dependency type="executable" location="extensions">smil.py</dependency>
+	<dependency type="executable" location="extensions">inkex.py</dependency>
+	<param name="option" type="dummy" min="1" max="2" _gui-text="Dummy option:">2</param>
+    <effect>
+		<object-type>all</object-type>
+                <effects-menu>
+                    <submenu _name="SMIL animation"/>
+                </effects-menu>
+    </effect>
+    <script>
+        <command reldir="extensions" interpreter="python">smil.py</command>
+    </script>
+</inkscape-extension>
