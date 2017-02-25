@@ -1,0 +1,18 @@
+## Interesting People
+
+- [Xaviju](https://github.com/Xaviju) 
+	- [python extension tutorial](https://medium.com/@xaviju/inkscape-extensions-by-non-developers-for-non-developers-a-primer-b272dda360fe)
+	- [inkscape-placeholder - collection of simple extensions](https://github.com/Xaviju/inkscape-placeholder)
+- [Lars Wallin](https://github.com/larscwallin)
+	- [Export to any](https://gist.github.com/larscwallin/989074)
+	- [Collection of his gists](https://gist.github.com/larscwallin)
+	- [Extract and Export Elements](https://github.com/larscwallin/ExtractElements)
+	- [Bansai - inkscape to bonsai.js extension](https://github.com/larscwallin/bansai)
+- [Shogo  Ichinose](https://github.com/shogo82148), [email](shogo82148@gmail.com)
+	- [svg2css](https://github.com/shogo82148/svg2css), [slideshow](http://shogo82148.github.io/svg2css/readme-slide/readme.html)
+- [Peter Collingridge](http://www.petercollingridge.co.uk/)
+	- [SVG Optimizer for Inkscape](https://github.com/petercollingridge/SVG-Optimiser)
+	- [JQuery based SVG Editor](https://github.com/petercollingridge/SVG-Editor)
+	- [drawSVG.js - js lib for generating svg](https://github.com/petercollingridge/drawSVG.js)
+- [Bartosz Telenczuk](https://github.com/btel)
+	- [svgutils - Python tools to create and manipulate svg](https://github.com/btel/svg_utils)
