@@ -20,8 +20,13 @@ an inkscape extension for declarative animation using SMIL
 Available path interpolation extension in inkscape would help in generating required intermediate frames.
 
 1. create objects
+![creating objects](./interpolation-pics/1.png)
 2. Convert them into path
+![converting objects to paths](./interpolation-pics/2.png)
 3. Combine the paths into single path (use path -> combine)
+![combine paths](./interpolation-pics/3.png)
 4. the current path is the start path
+![set the start path](./interpolation-pics/4.png)
 5. duplicate to create a destination path
-6. select extensions -> generate from path -> interpolate
+![set the destination path](./interpolation-pics/5.png)
+6. Use : select extensions -> generate from path -> interpolate
